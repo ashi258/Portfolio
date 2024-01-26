@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700');
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Roboto, Arial" font-weight="bold" fill="white">
+   Ashish
+  </text>
+</svg>
